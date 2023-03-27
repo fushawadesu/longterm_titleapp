@@ -20,8 +20,8 @@ spacy-legacy==3.0.10
 spacy-loggers==1.0.3
 tokenizers==0.13.2
 torch==2.0.0
-torchaudio=2.0.1
-torchvision=0.15.1
+torchaudio==2.0.1
+torchvision==0.15.1
 tqdm==4.64.1
 transformers==4.24.0
 zipp==3.10.0
